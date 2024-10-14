@@ -1,0 +1,20 @@
+{
+  "spellcheckDictionary": [
+    "biopunk",
+    "Aer-Set",
+    "via-Ra",
+    "Deadeye",
+    "Avia-Ra",
+    "Aer",
+    "Shei",
+    "owlbear",
+    "teifling",
+    "nat",
+    "roleplay",
+    "Arcana"
+  ],
+  "spellcheck": false,
+  "newFileLocation": "current",
+  "propertiesInDocument": "hidden",
+  "mobilePullAction": "obsidian-languagetool-plugin:ltcheck-text"
+}

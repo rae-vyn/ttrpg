@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "0dec3f8fd4d15812",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c846aa21183d94d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "458f6a0f67c5607b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Basic Rules/01 - Required Materials.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f939b476964db86",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "237d3caa213c54f2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6f098e86dfc87b13",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d7d00990f5b2f8ad",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "df51d37a35709a7e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "16c19abdd659c99a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "254926d6dba688b5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "00 - Basic Rules/01 - Required Materials.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9f198353f2dc0108",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "00 - Basic Rules/01 - Required Materials.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "74ac3f897690183b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "00 - Basic Rules/01 - Required Materials.md"
+          }
+        }
+      },
+      {
+        "id": "9cf361bd0c0e8efb",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "458f6a0f67c5607b",
+  "lastOpenFiles": [
+    "00 - Basic Rules/01 - Required Materials.md"
+  ]
+}
