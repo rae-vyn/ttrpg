@@ -1,5 +1,0 @@
-- [ ] Character creation
-	- [ ] Classes
-	- [ ] Skills
-	- [ ] Traits
-	- [ ] Instincts
